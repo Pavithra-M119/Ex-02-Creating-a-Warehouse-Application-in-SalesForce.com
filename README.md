@@ -30,7 +30,7 @@ In Salesforce we can create, manage and customise both applications according to
 ![ex2-4](https://github.com/DrMalathiSaravanan/Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com/assets/139700114/76777c8e-433b-439d-9813-f0eafa73acb4)
 
 ### Step 5: 
-After Next, define the fields for the custom app.
+After Next, define the fields for the custom app. 
 •	App Label: Search Service.
 •	App Name: Search Service.
 •	Description: Search Service is one app where we manage all the business data and catalogues.
